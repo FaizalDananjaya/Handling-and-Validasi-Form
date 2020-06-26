@@ -100,3 +100,5 @@ echo $jenis kelamin;
 ?>
 </body>
 </html>
+Maaf kalau salah saya kurang memahami materi tentang handling dan validasi form sudah melihat youtube selama 3-5 kali masih belum paham 
+maaf jika ada kesalahan
